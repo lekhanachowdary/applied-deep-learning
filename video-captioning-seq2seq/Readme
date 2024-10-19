@@ -1,5 +1,3 @@
-# README for Video Caption Generation Model
-
 ## Overview
 This repository contains code for generating video captions using a sequence-to-sequence model with attention. The implementation involves training an encoder-decoder architecture on the MSVD dataset.
 
