@@ -1,0 +1,22 @@
+# README for Video Caption Generation Model
+
+## Overview
+This repository contains code for generating video captions using a sequence-to-sequence model with attention. The implementation involves training an encoder-decoder architecture on the MSVD dataset.
+
+## Dataset Preparation
+1. **Download Dataset**: Download the dataset from the following link:  
+   [MLDS_hw2_1_data.tar.gz](https://drive.google.com/file/d/1RevHMfXZ1zYjUm4fPU1CfFKAjyMJjdgJ/view)
+   
+2. **Extract Data**: After downloading, extract all contents from the `MLDS_hw2_1_data.tar.gz` file.
+
+## Training
+- Run the training script to generate the necessary pickle file (`i2w.pickle`) and train the model. The training file will prepare the data and save the trained model.
+  
+## Model Usage
+- To use the saved model, download the modelp file from the `SavedModel` folder.
+
+## Testing
+- Run the test script using the bash command provided in the `s2s.sh` file. This script will evaluate the model on the test dataset and generate captions.
+
+## Notes
+Ensure that all required dependencies are installed and configured before running the scripts.
