@@ -6,3 +6,7 @@ Please download it to run the files.
 The DCGAN and WGAN models were too large to include directly in this repository. Please download them using the following links:
 DCGAN Model: https://drive.google.com/file/d/1kFqFG7IhIfdAv3u8ShYd1FPe0qA5WSxW/view?usp=sharing
 WGAN: https://drive.google.com/file/d/13VRl2Fa-Q3VSMg4HFcksL-htnqkd-TDR/view?usp=sharing
+
+The DCGAN_FAKE and DCGAN_REAL folders are located in the Results folder, 
+while the WGAN_Fake and WGAN_Real folders are in the Output folder. 
+These folders contain the generated fake and real images for each epoch, totaling 50 epochs.
