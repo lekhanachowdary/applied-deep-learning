@@ -1,3 +1,8 @@
+This folder contains three files: DCGAN, WGAN, and a comparison plot file. 
+The dataset used is the CIFAR 10 dataset, which can be downloaded from the following link: 
+CIFAR 10 Dataset--> https://www.cs.toronto.edu/~kriz/cifar.html
+Please download it to run the files. 
+
 The DCGAN and WGAN models were too large to include directly in this repository. Please download them using the following links:
-DCGAN--> https://drive.google.com/file/d/1kFqFG7IhIfdAv3u8ShYd1FPe0qA5WSxW/view?usp=sharing 
-WGAN--> https://drive.google.com/file/d/13VRl2Fa-Q3VSMg4HFcksL-htnqkd-TDR/view?usp=sharing
+DCGAN Model: https://drive.google.com/file/d/1kFqFG7IhIfdAv3u8ShYd1FPe0qA5WSxW/view?usp=sharing
+WGAN: https://drive.google.com/file/d/13VRl2Fa-Q3VSMg4HFcksL-htnqkd-TDR/view?usp=sharing
