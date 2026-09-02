@@ -1,6 +1,0 @@
-This repository contains code to fine-tune both DistilBERT and RoBERTa models for Extractive Question Answering on the
-SQuAD2.0 dataset, which includes both answerable and unanswerable questions. 
-The models are trained to predict the start and end positions of answers within context paragraphs.
-The code includes data preprocessing, tokenization, and training loops using PyTorch and the Hugging Face Transformers library.
-It supports training with either the DistilBERT or RoBERTa base models. After training, the models can be evaluated using the F1 score. 
-Simply place the dataset files (spoken_train-v1.1.json and spoken_test-v1.1.json) in the project directory and run the training script to start fine-tuning.
